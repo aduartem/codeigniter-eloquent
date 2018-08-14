@@ -4,7 +4,7 @@
 
 php: >=5.5.9
 
-### Instalation
+### Installation
 
 Install the Illuminate Database package with Composer:
 
